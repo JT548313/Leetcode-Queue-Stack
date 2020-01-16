@@ -1,1 +1,1 @@
-# Leetcode-Queu-Stack
+# Leetcode-Queue-Stack
